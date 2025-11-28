@@ -1,0 +1,182 @@
+[
+  {
+    "id": "habit_01",
+    "category": "coeur_lumiere",
+    "title": { "fr": "Intention sincère du matin", "en": "Sincere morning intention", "ar": "نية صادقة لبداية اليوم" },
+    "description": { "fr": "Prendre 60 secondes pour poser une intention simple et sincère pour ta journée.", "en": "Take 60 seconds to set a simple, sincere intention for your day.", "ar": "خذ ٦٠ ثانية لتضع نية بسيطة وصادقة ليومك." }
+  },
+  {
+    "id": "habit_02",
+    "category": "coeur_lumiere",
+    "title": { "fr": "Respirer pour apaiser le cœur", "en": "Breathe to calm the heart", "ar": "تنفس لتهدئة القلب" },
+    "description": { "fr": "Avant une tâche importante, prendre 3 grandes respirations pour revenir à ton cœur.", "en": "Before an important task, take 3 deep breaths to return to your heart.", "ar": "قبل مهمة مهمة، خذ ٣ أنفاس عميقة للعودة إلى قلبك." }
+  },
+  {
+    "id": "habit_03",
+    "category": "coeur_lumiere",
+    "title": { "fr": "Check-in du cœur", "en": "Heart check-in", "ar": "التواصل مع القلب" },
+    "description": { "fr": "Une fois par jour, te demander : « Comment va mon cœur vraiment ? »", "en": "Once a day, ask yourself: \"How is my heart really doing?\"", "ar": "مرة في اليوم، اسأل نفسك: «كيف حال قلبي حقاً؟»" }
+  },
+  {
+    "id": "habit_04",
+    "category": "coeur_lumiere",
+    "title": { "fr": "Lumière intérieure 30 secondes", "en": "30-second inner light", "ar": "نور داخلي لمدة ٣٠ ثانية" },
+    "description": { "fr": "Fermer les yeux et imaginer une petite lumière douce dans ta poitrine.", "en": "Close your eyes and imagine a small, gentle light in your chest.", "ar": "أغمض عينيك وتخيّل ضوءاً صغيراً لطيفاً في صدرك." }
+  },
+  {
+    "id": "habit_05",
+    "category": "coeur_lumiere",
+    "title": { "fr": "Ne pas nourrir ce qui te fait du mal", "en": "Stop feeding what hurts you", "ar": "لا تغذِّ ما يؤذيك" },
+    "description": { "fr": "Repérer une chose qui alourdit ton cœur et la réduire, même un peu aujourd'hui.", "en": "Identify one thing that weighs on your heart and reduce it, even a little today.", "ar": "حدد شيئاً واحداً يثقل قلبك وقلله، حتى قليلاً اليوم." }
+  },
+  {
+    "id": "habit_06",
+    "category": "coeur_lumiere",
+    "title": { "fr": "5 secondes avant de réagir", "en": "5 seconds before reacting", "ar": "٥ ثوانٍ قبل الرد" },
+    "description": { "fr": "Avant de répondre dans un moment tendu, compter doucement jusqu'à 5.", "en": "Before responding in a tense moment, count slowly to 5.", "ar": "قبل أن ترد في لحظة متوترة، عُدّ ببطء حتى ٥." }
+  },
+  {
+    "id": "habit_07",
+    "category": "patience_douceur",
+    "title": { "fr": "Micro-moment de patience", "en": "Micro-moment of patience", "ar": "لحظة صغيرة من الصبر" },
+    "description": { "fr": "Quand l'agacement monte, prendre une respiration profonde avant de parler ou d'agir.", "en": "When frustration rises, take a deep breath before speaking or acting.", "ar": "عندما يزداد الانزعاج، خذ نفساً عميقاً قبل التحدث أو التصرف." }
+  },
+  {
+    "id": "habit_08",
+    "category": "patience_douceur",
+    "title": { "fr": "Remplacer une parole dure", "en": "Replace a harsh word", "ar": "استبدال كلمة قاسية" },
+    "description": { "fr": "Choisir consciemment une situation où tu adoucis ta réponse au lieu de la durcir.", "en": "Consciously choose a situation where you soften your response instead of hardening it.", "ar": "اختر بوعي موقفاً تُليّن فيه ردك بدلاً من أن تُقسّيه." }
+  },
+  {
+    "id": "habit_09",
+    "category": "patience_douceur",
+    "title": { "fr": "Accepter de ne pas tout contrôler", "en": "Accept not controlling everything", "ar": "قبول عدم التحكم في كل شيء" },
+    "description": { "fr": "Quand quelque chose t'échappe, te répéter : « Je fais de mon mieux, le reste ne m'appartient pas. »", "en": "When something slips away, tell yourself: \"I'm doing my best, the rest isn't mine to hold.\"", "ar": "عندما يفلت منك شيء، قل لنفسك: «أنا أفعل ما بوسعي، والباقي ليس من شأني.»" }
+  },
+  {
+    "id": "habit_10",
+    "category": "patience_douceur",
+    "title": { "fr": "Réduire l'auto-critique", "en": "Reduce self-criticism", "ar": "تقليل النقد الذاتي" },
+    "description": { "fr": "Repérer une pensée très dure sur toi, et la remplacer par une version plus douce et plus juste.", "en": "Notice a very harsh thought about yourself, and replace it with a softer, truer version.", "ar": "لاحظ فكرة قاسية جداً عن نفسك، واستبدلها بنسخة ألطف وأصدق." }
+  },
+  {
+    "id": "habit_11",
+    "category": "patience_douceur",
+    "title": { "fr": "Choisir la lenteur une fois", "en": "Choose slowness once", "ar": "اختر البطء مرة واحدة" },
+    "description": { "fr": "Faire une petite chose plus lentement que d'habitude, en conscience, sans te presser.", "en": "Do one small thing more slowly than usual, consciously, without rushing.", "ar": "افعل شيئاً صغيراً ببطء أكثر من المعتاد، بوعي، دون عجلة." }
+  },
+  {
+    "id": "habit_12",
+    "category": "generosite_bonte",
+    "title": { "fr": "Un petit geste de bonté gratuite", "en": "A small act of free kindness", "ar": "فعل صغير من اللطف المجاني" },
+    "description": { "fr": "Faire chaque jour un geste utile ou doux pour quelqu'un, sans rien attendre en retour.", "en": "Each day, do something helpful or kind for someone, expecting nothing in return.", "ar": "كل يوم، افعل شيئاً نافعاً أو لطيفاً لشخص ما، دون انتظار أي مقابل." }
+  },
+  {
+    "id": "habit_13",
+    "category": "generosite_bonte",
+    "title": { "fr": "Dire un mot sincère à quelqu'un", "en": "Say a sincere word to someone", "ar": "قل كلمة صادقة لشخص ما" },
+    "description": { "fr": "Exprimer une reconnaissance spécifique à une personne de ton entourage.", "en": "Express a specific appreciation to someone close to you.", "ar": "عبّر عن تقدير محدد لشخص من محيطك." }
+  },
+  {
+    "id": "habit_14",
+    "category": "generosite_bonte",
+    "title": { "fr": "Aider discrètement", "en": "Help quietly", "ar": "ساعد بهدوء" },
+    "description": { "fr": "Aider quelqu'un sans le dire à personne : juste par pure bonté.", "en": "Help someone without telling anyone: just out of pure kindness.", "ar": "ساعد شخصاً دون أن تخبر أحداً: فقط من خالص اللطف." }
+  },
+  {
+    "id": "habit_15",
+    "category": "generosite_bonte",
+    "title": { "fr": "Être présent quand quelqu'un parle", "en": "Be present when someone speaks", "ar": "كن حاضراً عندما يتحدث أحد" },
+    "description": { "fr": "Écouter quelqu'un sans regarder ton téléphone, même quelques minutes.", "en": "Listen to someone without looking at your phone, even for a few minutes.", "ar": "استمع لشخص ما دون النظر إلى هاتفك، حتى لبضع دقائق." }
+  },
+  {
+    "id": "habit_16",
+    "category": "generosite_bonte",
+    "title": { "fr": "Envoyer un message de paix", "en": "Send a message of peace", "ar": "أرسل رسالة سلام" },
+    "description": { "fr": "Envoyer un message sincère à quelqu'un avec qui tu veux garder un lien apaisé.", "en": "Send a sincere message to someone with whom you want to keep a peaceful connection.", "ar": "أرسل رسالة صادقة لشخص تريد أن تحافظ معه على رابط هادئ." }
+  },
+  {
+    "id": "habit_17",
+    "category": "discipline_temps",
+    "title": { "fr": "Commencer par la chose importante", "en": "Start with what matters", "ar": "ابدأ بالشيء المهم" },
+    "description": { "fr": "Chaque matin, faire une petite action en lien avec ce qui compte vraiment pour toi.", "en": "Each morning, do one small action related to what truly matters to you.", "ar": "كل صباح، افعل فعلاً صغيراً مرتبطاً بما يهمك حقاً." }
+  },
+  {
+    "id": "habit_18",
+    "category": "discipline_temps",
+    "title": { "fr": "Mini engagement quotidien", "en": "Daily mini commitment", "ar": "التزام صغير يومي" },
+    "description": { "fr": "Choisir une seule habitude à tenir chaque jour, même en version ultra-courte.", "en": "Choose one single habit to keep each day, even in its shortest form.", "ar": "اختر عادة واحدة فقط تلتزم بها كل يوم، حتى بأقصر نسخة." }
+  },
+  {
+    "id": "habit_19",
+    "category": "discipline_temps",
+    "title": { "fr": "Éviter une distraction superflue", "en": "Avoid one unnecessary distraction", "ar": "تجنب تشتت زائد واحد" },
+    "description": { "fr": "Identifier une habitude numérique inutile et la réduire aujourd'hui.", "en": "Identify one useless digital habit and reduce it today.", "ar": "حدد عادة رقمية غير مفيدة وقلّلها اليوم." }
+  },
+  {
+    "id": "habit_20",
+    "category": "discipline_temps",
+    "title": { "fr": "Bloc de 10 minutes de concentration", "en": "10-minute focus block", "ar": "كتلة تركيز لمدة ١٠ دقائق" },
+    "description": { "fr": "Accorder 10 minutes à une tâche sans notifications ni multitâche.", "en": "Give 10 minutes to one task without notifications or multitasking.", "ar": "خصص ١٠ دقائق لمهمة واحدة بلا إشعارات ولا تعدد مهام." }
+  },
+  {
+    "id": "habit_21",
+    "category": "discipline_temps",
+    "title": { "fr": "Clôture de journée consciente", "en": "Conscious day closure", "ar": "إنهاء اليوم بوعي" },
+    "description": { "fr": "Avant de dormir, marquer une fin à ta journée par un petit rituel ou une phrase de clôture.", "en": "Before sleep, mark the end of your day with a small ritual or closing phrase.", "ar": "قبل النوم، ضع خاتمة ليومك بطقس صغير أو جملة ختامية." }
+  },
+  {
+    "id": "habit_22",
+    "category": "introspection_purete",
+    "title": { "fr": "Noter une chose à améliorer sans te juger", "en": "Note one thing to improve without judging yourself", "ar": "دوّن شيئاً لتحسينه دون أن تحكم على نفسك" },
+    "description": { "fr": "Observer un comportement que tu aimerais ajuster, sans te parler avec dureté.", "en": "Observe a behavior you'd like to adjust, without speaking harshly to yourself.", "ar": "لاحظ سلوكاً تود تعديله، دون أن تحدث نفسك بقسوة." }
+  },
+  {
+    "id": "habit_23",
+    "category": "introspection_purete",
+    "title": { "fr": "Observer une émotion sans la fuir", "en": "Observe an emotion without running from it", "ar": "لاحظ عاطفة دون الهروب منها" },
+    "description": { "fr": "Quand une émotion apparaît, la nommer sans la bloquer : « Là, je me sens… »", "en": "When an emotion appears, name it without blocking it: \"Right now, I feel...\"", "ar": "عندما تظهر عاطفة، سمّها دون أن تحجبها: «الآن، أشعر بـ...»" }
+  },
+  {
+    "id": "habit_24",
+    "category": "introspection_purete",
+    "title": { "fr": "Purifier ton espace, purifier ton cœur", "en": "Clear your space, clear your heart", "ar": "نظّف مساحتك، نظّف قلبك" },
+    "description": { "fr": "Ranger un petit espace en le liant à une intention de clarté intérieure.", "en": "Tidy a small space while linking it to an intention of inner clarity.", "ar": "رتّب مساحة صغيرة مع ربطها بنية من الوضوح الداخلي." }
+  },
+  {
+    "id": "habit_25",
+    "category": "introspection_purete",
+    "title": { "fr": "Limiter ce qui pollue ton esprit", "en": "Limit what pollutes your mind", "ar": "قلّل ما يلوث عقلك" },
+    "description": { "fr": "Réduire volontairement un type de contenu qui alourdit ton cœur.", "en": "Voluntarily reduce one type of content that weighs on your heart.", "ar": "قلّل طوعاً نوعاً واحداً من المحتوى الذي يثقل قلبك." }
+  },
+  {
+    "id": "habit_26",
+    "category": "introspection_purete",
+    "title": { "fr": "Moment de vérité intérieure", "en": "Moment of inner truth", "ar": "لحظة حقيقة داخلية" },
+    "description": { "fr": "Te poser la question : « Est-ce que ce que je fais est aligné avec ce que je veux devenir ? »", "en": "Ask yourself: \"Is what I'm doing aligned with who I want to become?\"", "ar": "اسأل نفسك: «هل ما أفعله متوافق مع من أريد أن أصبح؟»" }
+  },
+  {
+    "id": "habit_27",
+    "category": "gratitude_lien",
+    "title": { "fr": "Gratitude pour une chose simple", "en": "Gratitude for one simple thing", "ar": "امتنان لشيء بسيط" },
+    "description": { "fr": "Chaque jour, trouver au moins une petite chose pour laquelle tu es reconnaissant(e).", "en": "Each day, find at least one small thing you're grateful for.", "ar": "كل يوم، ابحث عن شيء صغير واحد تشعر بالامتنان له." }
+  },
+  {
+    "id": "habit_28",
+    "category": "gratitude_lien",
+    "title": { "fr": "Remercier pour une difficulté passée", "en": "Thank for a past difficulty", "ar": "اشكر على صعوبة مضت" },
+    "description": { "fr": "Chercher une épreuve passée dont tu as tiré quelque chose de précieux pour ton cœur.", "en": "Find a past trial from which you gained something precious for your heart.", "ar": "ابحث عن محنة سابقة استخلصت منها شيئاً ثميناً لقلبك." }
+  },
+  {
+    "id": "habit_29",
+    "category": "gratitude_lien",
+    "title": { "fr": "Reconnaître une qualité en toi", "en": "Recognize a quality in yourself", "ar": "اعترف بصفة فيك" },
+    "description": { "fr": "Identifier une qualité chez toi, même petite, et la reconnaître sans gêne.", "en": "Identify a quality in yourself, even small, and acknowledge it without embarrassment.", "ar": "حدد صفة فيك، حتى لو صغيرة، واعترف بها دون خجل." }
+  },
+  {
+    "id": "habit_30",
+    "category": "gratitude_lien",
+    "title": { "fr": "Honorer un lien important", "en": "Honor an important bond", "ar": "كرّم رابطاً مهماً" },
+    "description": { "fr": "Faire un geste, un message ou un temps de présence pour une personne qui compte vraiment.", "en": "Make a gesture, send a message, or spend time with someone who truly matters.", "ar": "اصنع فعلاً أو أرسل رسالة أو اقضِ وقتاً مع شخص يهمك حقاً." }
+  }
+]

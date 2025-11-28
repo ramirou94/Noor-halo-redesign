@@ -1,0 +1,73 @@
+{
+  "expo": {
+    "name": "Noor Halo",
+    "slug": "noor-halo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/noor-halo-icon.png",
+    "scheme": "noorhalo",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/splash-image.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#050817"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.noorhalo.app",
+      "buildNumber": "1",
+      "infoPlist": {
+        "NSUserTrackingUsageDescription": "We use this to provide personalized content and improve your experience.",
+        "UIBackgroundModes": ["remote-notification"]
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icons/noor-halo-icon.png",
+        "backgroundColor": "#050817"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.noorhalo.app",
+      "versionCode": 1,
+      "permissions": [
+        "RECEIVE_BOOT_COMPLETED",
+        "VIBRATE",
+        "SCHEDULE_EXACT_ALARM"
+      ]
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/icons/noor-halo-icon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-image.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#050817"
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icons/noor-halo-icon.png",
+          "color": "#8A4FFF",
+          "sounds": []
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "your-eas-project-id"
+      }
+    }
+  }
+}

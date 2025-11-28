@@ -1,0 +1,968 @@
+[
+  {
+    "id": 1,
+    "key": "7_days_inner_calm",
+    "durationDays": 7,
+    "en": {
+      "title": "7 Days of Inner Calm",
+      "description": "A gentle 7-day journey to calm your nervous system and reconnect with your inner light.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Pause and Breathe",
+          "content": "Today, practice the Three Breaths Reset once in the morning and once in the evening. Focus only on the sensation of the air entering and leaving your body."
+        },
+        {
+          "day": 2,
+          "title": "Soften the Body",
+          "content": "Spend 5 minutes on Body Softening: shoulders, jaw, chest. Notice where you hold tension and exhale it out slowly."
+        },
+        {
+          "day": 3,
+          "title": "Quiet Corners",
+          "content": "Choose a quiet corner at home. Sit there for 5 minutes without phone, just breathing and noticing the space around you."
+        },
+        {
+          "day": 4,
+          "title": "Name Your Feelings",
+          "content": "Once today, do a Heart Check-In. Write one sentence starting with: 'Right now, my heart feels…' and let the words come."
+        },
+        {
+          "day": 5,
+          "title": "Digital Distance",
+          "content": "Choose one moment today (15–20 minutes) with no screens: just you, your breath, and maybe a tea, a walk, or simple stillness."
+        },
+        {
+          "day": 6,
+          "title": "Inner Light",
+          "content": "Do the Inner Light Visualization at any time of the day. Imagine the light in your chest growing warmer and softer."
+        },
+        {
+          "day": 7,
+          "title": "Grateful Calm",
+          "content": "Before sleep, write down three things that brought you a sense of calm this week, even if they were very small."
+        }
+      ]
+    },
+    "fr": {
+      "title": "7 Jours de Calme Intérieur",
+      "description": "Un parcours doux de 7 jours pour apaiser ton système nerveux et te reconnecter à ta lumière intérieure.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Pause et Respire",
+          "content": "Aujourd'hui, pratique le Reset en Trois Respirations une fois le matin et une fois le soir. Concentre-toi uniquement sur l'air qui entre et qui sort."
+        },
+        {
+          "day": 2,
+          "title": "Adoucir le Corps",
+          "content": "Consacre 5 minutes à Adoucir le Corps : épaules, mâchoire, poitrine. Observe où tu gardes des tensions et expire-les lentement."
+        },
+        {
+          "day": 3,
+          "title": "Coin de Silence",
+          "content": "Choisis un coin calme chez toi. Assieds-toi là 5 minutes sans téléphone, en respirant et en observant simplement l'espace autour de toi."
+        },
+        {
+          "day": 4,
+          "title": "Nommer ce que tu Ressens",
+          "content": "Une fois aujourd'hui, fais un Check-in du Cœur. Écris une phrase qui commence par : « En ce moment, mon cœur se sent… » et laisse venir les mots."
+        },
+        {
+          "day": 5,
+          "title": "Distance Digitale",
+          "content": "Choisis un moment aujourd'hui (15–20 minutes) sans écran : juste toi, ta respiration, et peut-être un thé, une marche ou un simple moment de pause."
+        },
+        {
+          "day": 6,
+          "title": "Lumière Intérieure",
+          "content": "Pratique la Visualisation de la Lumière Intérieure à n'importe quel moment. Imagine la lumière dans ta poitrine devenir plus chaleureuse et plus douce."
+        },
+        {
+          "day": 7,
+          "title": "Calme Reconnaissant",
+          "content": "Avant de dormir, écris trois choses qui t'ont apporté du calme cette semaine, même si elles étaient très petites."
+        }
+      ]
+    },
+    "ar": {
+      "title": "7 أيام من السكينة الداخلية",
+      "description": "رحلة لطيفة لمدة 7 أيام لتهدئة جهازك العصبي والاتصال بنورك الداخلي.",
+      "days": [
+        {
+          "day": 1,
+          "title": "وقفة وأنفاس",
+          "content": "مارس اليوم تمرين ثلاث أنفاس مرة صباحاً ومرة مساءً، وركّز فقط على حركة الهواء داخل جسدك وخارجه."
+        },
+        {
+          "day": 2,
+          "title": "تليين الجسد",
+          "content": "اقضِ 5 دقائق في تليين الكتفين والفك ومنطقة الصدر، ولاحظ مواضع التوتر وأطلقها مع الزفير."
+        },
+        {
+          "day": 3,
+          "title": "زاوية هادئة",
+          "content": "اختر زاوية هادئة في البيت واجلس فيها 5 دقائق بلا هاتف، مع التركيز على تنفسك والمكان من حولك."
+        },
+        {
+          "day": 4,
+          "title": "تسمية المشاعر",
+          "content": "قم اليوم بتمرين التواصل مع القلب، واكتب جملة تبدأ بـ: «في هذه اللحظة، قلبي يشعر بـ…» ودع الكلمات تخرج كما هي."
+        },
+        {
+          "day": 5,
+          "title": "مسافة رقمية",
+          "content": "اختر فترة من 15–20 دقيقة اليوم دون أي شاشات: فقط أنت وأنفاسك وربما كوب شاي أو مشي هادئ."
+        },
+        {
+          "day": 6,
+          "title": "نور داخلي",
+          "content": "قم بتخيّل النور الداخلي في صدرك في أي وقت من اليوم، وتخيّل هذا النور يزداد دفئاً وهدوءاً."
+        },
+        {
+          "day": 7,
+          "title": "امتنان للسكينة",
+          "content": "قبل النوم، اكتب ثلاث أشياء منحتك شعوراً بالسكينة هذا الأسبوع، حتى لو كانت صغيرة جداً."
+        }
+      ]
+    },
+    "isPremium": false
+  },
+  {
+    "id": 2,
+    "key": "7_days_gentle_discipline",
+    "durationDays": 7,
+    "en": {
+      "title": "7 Days of Gentle Discipline",
+      "description": "A 7-day commitment to show up for yourself with softness and consistency.",
+      "days": [
+        {
+          "day": 1,
+          "title": "One Small Promise",
+          "content": "Choose one tiny habit for this whole challenge (for example: 3 deep breaths, 5 lines of journaling, or 1 page of reading) and commit to it daily."
+        },
+        {
+          "day": 2,
+          "title": "Prepare Your Space",
+          "content": "Today, organize a small physical space dedicated to your Noor Halo moments: a corner, a chair, a blanket, or a candle."
+        },
+        {
+          "day": 3,
+          "title": "Show Up Anyway",
+          "content": "Even if you feel tired, show up for your tiny habit. Remind yourself that the goal is not perfection, but presence."
+        },
+        {
+          "day": 4,
+          "title": "Name the Resistance",
+          "content": "Write down one sentence about what makes it hard to stay consistent. Read it, then tell yourself: \"I can move gently even with resistance.\" "
+        },
+        {
+          "day": 5,
+          "title": "Anchor in Time",
+          "content": "Choose a fixed moment for your habit (after waking up, after lunch, before sleep) and repeat it today at that time."
+        },
+        {
+          "day": 6,
+          "title": "Celebrate the Streak",
+          "content": "Look back at the past days and acknowledge that you showed up. Whisper to yourself: \"I am capable of gentle discipline.\""
+        },
+        {
+          "day": 7,
+          "title": "Redefine Discipline",
+          "content": "Write your own definition of discipline that feels kind and realistic for you. Keep it as a reminder for your future self."
+        }
+      ]
+    },
+    "fr": {
+      "title": "7 Jours de Discipline Douce",
+      "description": "Un engagement de 7 jours pour te montrer présent(e) pour toi-même avec douceur et constance.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Une Petite Promesse",
+          "content": "Choisis une micro-habitude pour tout ce challenge (par exemple : 3 grandes respirations, 5 lignes d'écriture, ou 1 page de lecture) et engage-toi à la faire chaque jour."
+        },
+        {
+          "day": 2,
+          "title": "Préparer ton Espace",
+          "content": "Aujourd'hui, organise un petit espace physique dédié à tes moments Noor Halo : un coin, une chaise, un plaid ou une bougie."
+        },
+        {
+          "day": 3,
+          "title": "Être Là Quand Même",
+          "content": "Même si tu es fatigué(e), montre-toi pour ta micro-habitude. Rappelle-toi que l'objectif n'est pas la perfection, mais la présence."
+        },
+        {
+          "day": 4,
+          "title": "Nommer la Résistance",
+          "content": "Écris une phrase sur ce qui rend difficile le fait de rester constant(e). Lis-la, puis dis-toi : « Je peux avancer doucement même avec de la résistance. »"
+        },
+        {
+          "day": 5,
+          "title": "Ancrer dans le Temps",
+          "content": "Choisis un moment fixe pour ta habitude (au réveil, après le déjeuner, avant de dormir) et répète-la aujourd'hui à la même heure."
+        },
+        {
+          "day": 6,
+          "title": "Célébrer la Série",
+          "content": "Regarde les jours précédents et reconnais que tu as été présent(e). Murmure-toi : « Je suis capable de discipline douce. »"
+        },
+        {
+          "day": 7,
+          "title": "Redéfinir la Discipline",
+          "content": "Écris ta propre définition de la discipline qui soit à la fois bienveillante et réaliste pour toi. Garde-la comme rappel pour ton futur toi."
+        }
+      ]
+    },
+    "ar": {
+      "title": "7 أيام من الانضباط اللطيف",
+      "description": "التزام لمدة 7 أيام لتكون حاضراً لنفسك بلطف واستمرارية.",
+      "days": [
+        {
+          "day": 1,
+          "title": "وعد صغير",
+          "content": "اختر عادة صغيرة جداً لهذا التحدي كله، والتزم بها يومياً."
+        },
+        {
+          "day": 2,
+          "title": "تهيئة المساحة",
+          "content": "خصص زاوية بسيطة في البيت تكون مرتبطة بلحظات Noor Halo الخاصة بك."
+        },
+        {
+          "day": 3,
+          "title": "الحضور رغم التعب",
+          "content": "حتى لو كنت متعباً، طبّق عادتك الصغيرة اليوم، وتذكّر أن الهدف هو الحضور لا الكمال."
+        },
+        {
+          "day": 4,
+          "title": "تسمية المقاومة",
+          "content": "اكتب جملة واحدة عن ما يجعل الالتزام صعباً، ثم ذكّر نفسك أنك تستطيع التقدّم بلطف رغم ذلك."
+        },
+        {
+          "day": 5,
+          "title": "ترسيخ الوقت",
+          "content": "اختر وقتاً ثابتاً لعادتك اليوم وكررها في نفس التوقيت."
+        },
+        {
+          "day": 6,
+          "title": "الاحتفال بالاستمرارية",
+          "content": "انظر للأيام الماضية واعترف بأنك التزمت، حتى لو قليلاً."
+        },
+        {
+          "day": 7,
+          "title": "تعريف جديد للانضباط",
+          "content": "اكتب تعريفك الخاص للانضباط الذي يجمع بين اللطف والواقعية بالنسبة لك."
+        }
+      ]
+    },
+    "isPremium": true
+  },
+  {
+    "id": 3,
+    "key": "14_days_digital_peace",
+    "durationDays": 14,
+    "en": {
+      "title": "14 Days of Digital Peace",
+      "description": "Two weeks to soften your relationship with screens and reclaim mental space.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Notice Your Habits",
+          "content": "Today, simply observe when you reach for your phone without thinking. No judgment, just awareness."
+        },
+        {
+          "day": 2,
+          "title": "One App Less",
+          "content": "Choose one app that drains your energy and avoid opening it for the whole day."
+        },
+        {
+          "day": 3,
+          "title": "Screen-Free Meal",
+          "content": "Have one meal today without any screens. Just you, your food, and your sensations."
+        },
+        {
+          "day": 4,
+          "title": "Muted Notifications",
+          "content": "Mute at least 3 non-essential notification types for the rest of the challenge."
+        },
+        {
+          "day": 5,
+          "title": "Digital Sunset Light",
+          "content": "Start a Digital Sunset: 20 minutes before sleep, put your phone away and do a calming offline activity."
+        },
+        {
+          "day": 6,
+          "title": "Mindful Scroll",
+          "content": "If you scroll today, set a timer for 5 or 10 minutes and stop when it rings. Notice how you feel."
+        },
+        {
+          "day": 7,
+          "title": "Redefine 'Online'",
+          "content": "Write one sentence describing how you would like your relationship with social media to be."
+        },
+        {
+          "day": 8,
+          "title": "Morning Delay",
+          "content": "Delay your first screen of the day by at least 15 minutes after waking."
+        },
+        {
+          "day": 9,
+          "title": "Create Distance",
+          "content": "Charge your phone outside your bedroom or at least away from your bed tonight."
+        },
+        {
+          "day": 10,
+          "title": "Replace One Check",
+          "content": "Each time you feel the urge to check your phone for no reason, take one deep breath first."
+        },
+        {
+          "day": 11,
+          "title": "Choose Your Inputs",
+          "content": "Unfollow or mute at least 3 accounts that make you feel heavy, less-than, or stressed."
+        },
+        {
+          "day": 12,
+          "title": "Offline Hour",
+          "content": "Pick one hour today to be completely offline. Use it for rest, reflection, or connection with someone you love."
+        },
+        {
+          "day": 13,
+          "title": "Grateful for Quiet",
+          "content": "Write down three benefits you've noticed from reducing your digital noise so far."
+        },
+        {
+          "day": 14,
+          "title": "Digital Intention",
+          "content": "Write a simple rule for yourself about how you want to use your devices from now on."
+        }
+      ]
+    },
+    "fr": {
+      "title": "14 Jours de Paix Digitale",
+      "description": "Deux semaines pour adoucir ta relation aux écrans et libérer de l'espace mental.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Observer tes Réflexes",
+          "content": "Aujourd'hui, observe simplement quand tu prends ton téléphone sans réfléchir. Sans jugement, juste de la conscience."
+        },
+        {
+          "day": 2,
+          "title": "Une App en Moins",
+          "content": "Choisis une application qui te vide de ton énergie et évite de l'ouvrir toute la journée."
+        },
+        {
+          "day": 3,
+          "title": "Repas Sans Écran",
+          "content": "Prends un repas aujourd'hui sans aucun écran. Juste toi, ta nourriture et tes sensations."
+        },
+        {
+          "day": 4,
+          "title": "Notifications en Sourdine",
+          "content": "Mets en silencieux au moins 3 types de notifications non essentielles pour le reste du challenge."
+        },
+        {
+          "day": 5,
+          "title": "Lumière du Coucher Digital",
+          "content": "Commence un Coucher de Soleil Digital : 20 minutes avant de dormir, éloigne ton téléphone et choisis une activité calme hors écran."
+        },
+        {
+          "day": 6,
+          "title": "Scroll Conscient",
+          "content": "Si tu scrolles aujourd'hui, mets un minuteur de 5 ou 10 minutes et arrête-toi lorsqu'il sonne. Observe comment tu te sens."
+        },
+        {
+          "day": 7,
+          "title": "Redéfinir « En Ligne »",
+          "content": "Écris une phrase qui décrit comment tu aimerais que soit ta relation aux réseaux sociaux."
+        },
+        {
+          "day": 8,
+          "title": "Retarder l'Écran du Matin",
+          "content": "Décale ton premier écran de la journée d'au moins 15 minutes après le réveil."
+        },
+        {
+          "day": 9,
+          "title": "Créer de la Distance",
+          "content": "Mets ton téléphone à charger en dehors de ta chambre, ou au minimum loin de ton lit, cette nuit."
+        },
+        {
+          "day": 10,
+          "title": "Remplacer une Vérification",
+          "content": "Chaque fois que tu as envie de vérifier ton téléphone sans vraie raison, prends d'abord une grande respiration."
+        },
+        {
+          "day": 11,
+          "title": "Choisir tes Entrées",
+          "content": "Désabonne-toi ou mets en sourdine au moins 3 comptes qui te rendent lourd(e), moins bien ou stressé(e)."
+        },
+        {
+          "day": 12,
+          "title": "Une Heure Hors Ligne",
+          "content": "Choisis une heure aujourd'hui pour être complètement hors ligne. Utilise-la pour te reposer, réfléchir ou te connecter à quelqu'un que tu aimes."
+        },
+        {
+          "day": 13,
+          "title": "Reconnaissance pour le Calme",
+          "content": "Note trois bénéfices que tu as remarqués depuis que tu réduis le bruit digital."
+        },
+        {
+          "day": 14,
+          "title": "Intention Digitale",
+          "content": "Écris une règle simple pour toi-même sur la manière dont tu veux utiliser tes appareils désormais."
+        }
+      ]
+    },
+    "ar": {
+      "title": "14 يوماً من السلام الرقمي",
+      "description": "أسبوعان لتلطيف علاقتك بالشاشات واسترجاع مساحة ذهنية.",
+      "days": [
+        {
+          "day": 1,
+          "title": "ملاحظة العادات",
+          "content": "راقب متى تلتقط هاتفك دون تفكير، دون حكم، فقط وعي."
+        },
+        {
+          "day": 2,
+          "title": "تطبيق أقل",
+          "content": "اختر تطبيقاً واحداً يرهقك وحاول ألا تفتحه طوال اليوم."
+        },
+        {
+          "day": 3,
+          "title": "وجبة بلا شاشة",
+          "content": "تناول وجبة واحدة اليوم بلا أي شاشة، فقط أنت وطعامك."
+        },
+        {
+          "day": 4,
+          "title": "إشعارات صامتة",
+          "content": "قم بكتم 3 أنواع من الإشعارات غير الضرورية."
+        },
+        {
+          "day": 5,
+          "title": "غروب رقمي",
+          "content": "ابدأ غروباً رقمياً: قبل النوم بـ20 دقيقة، أبعد هاتفك وامارس نشاطاً هادئاً بلا شاشة."
+        },
+        {
+          "day": 6,
+          "title": "تمرير واعٍ",
+          "content": "إذا مررت اليوم على الهاتف، حدّد مؤقتاً لخمس أو عشر دقائق وتوقف عند انتهائه."
+        },
+        {
+          "day": 7,
+          "title": "تعريف جديد لـ«أونلاين»",
+          "content": "اكتب جملة تصف كيف تريد أن تكون علاقتك بوسائل التواصل."
+        },
+        {
+          "day": 8,
+          "title": "تأجيل شاشة الصباح",
+          "content": "أخّر أول شاشة في يومك 15 دقيقة على الأقل."
+        },
+        {
+          "day": 9,
+          "title": "مسافة آمنة",
+          "content": "ضع هاتفك بعيداً عن سريرك أو خارج الغرفة أثناء النوم."
+        },
+        {
+          "day": 10,
+          "title": "استبدال التحقق",
+          "content": "في كل مرة تريد فيها التحقق من الهاتف بلا سبب، خذ نفساً عميقاً أولاً."
+        },
+        {
+          "day": 11,
+          "title": "اختيار ما تتلقاه",
+          "content": "ألغِ متابعة أو اكتم 3 حسابات تجعلك تشعر بالثقل أو بالتوتر."
+        },
+        {
+          "day": 12,
+          "title": "ساعة بلا اتصال",
+          "content": "اختر ساعة اليوم لتكون فيها خارج الشبكة تماماً."
+        },
+        {
+          "day": 13,
+          "title": "الامتنان للهدوء",
+          "content": "دوّن ثلاث فوائد لاحظتها من تقليل الضوضاء الرقمية."
+        },
+        {
+          "day": 14,
+          "title": "نية رقمية",
+          "content": "اكتب قاعدة بسيطة لنفسك حول كيفية استخدام الأجهزة من الآن فصاعداً."
+        }
+      ]
+    },
+    "isPremium": true
+  },
+  {
+    "id": 5,
+    "key": "30_days_noor_halo_journey",
+    "durationDays": 30,
+    "en": {
+      "title": "30 Days of Noor Halo",
+      "description": "A 30-day gentle journey to weave calm, light and self-compassion into your everyday life.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Begin",
+          "content": "Set a gentle intention for these 30 days: how do you want to feel more often?"
+        },
+        {
+          "day": 2,
+          "title": "Three Breaths",
+          "content": "Practice the Three Breaths Reset at least once today."
+        },
+        {
+          "day": 3,
+          "title": "Gratitude Note",
+          "content": "Write down one thing you are grateful for today."
+        },
+        {
+          "day": 4,
+          "title": "Body Awareness",
+          "content": "Spend 3 minutes noticing sensations in your body without judging them."
+        },
+        {
+          "day": 5,
+          "title": "Digital Pause",
+          "content": "Take a 15-minute break from all screens today."
+        },
+        {
+          "day": 6,
+          "title": "Inner Light",
+          "content": "Do a short Inner Light Visualization before sleep."
+        },
+        {
+          "day": 7,
+          "title": "Week 1 Reflection",
+          "content": "Write a few lines about what changed (even slightly) during this first week."
+        },
+        {
+          "day": 8,
+          "title": "Morning Breath",
+          "content": "Take 3 conscious breaths as soon as you wake up."
+        },
+        {
+          "day": 9,
+          "title": "Soft Movement",
+          "content": "Do 5 minutes of gentle stretching or walking with full presence."
+        },
+        {
+          "day": 10,
+          "title": "Kind Self-Talk",
+          "content": "Write one kind sentence to yourself and read it out loud."
+        },
+        {
+          "day": 11,
+          "title": "One Quiet Moment",
+          "content": "Take a 5-minute break today just to sit in silence."
+        },
+        {
+          "day": 12,
+          "title": "Hydration Ritual",
+          "content": "Drink a glass of water slowly, treating it like a small ritual."
+        },
+        {
+          "day": 13,
+          "title": "Name the Emotion",
+          "content": "When a strong feeling appears, pause and name it softly instead of running from it."
+        },
+        {
+          "day": 14,
+          "title": "Two Gratitudes",
+          "content": "Write two things you are grateful for before sleep."
+        },
+        {
+          "day": 15,
+          "title": "Halfway Check-In",
+          "content": "Write how you feel halfway through this journey. What feels easier? What still feels hard?"
+        },
+        {
+          "day": 16,
+          "title": "Less Noise",
+          "content": "Mute or limit one source of noise (app, TV, chat) for the day."
+        },
+        {
+          "day": 17,
+          "title": "Slow Walk",
+          "content": "Take a short walk and move slower than usual, noticing details around you."
+        },
+        {
+          "day": 18,
+          "title": "Heart Whisper",
+          "content": "Do the Self-Compassion Whisper once today."
+        },
+        {
+          "day": 19,
+          "title": "Light Audio",
+          "content": "Listen to one calm audio track while doing nothing else."
+        },
+        {
+          "day": 20,
+          "title": "Check Your Needs",
+          "content": "Ask yourself: \"What do I really need today?\" and honor it in a small way."
+        },
+        {
+          "day": 21,
+          "title": "Week 3 Reflection",
+          "content": "Write a short note about any shift you notice in your calm or mindset."
+        },
+        {
+          "day": 22,
+          "title": "Evening Unwind",
+          "content": "Do an Evening Unwind ritual before sleep today."
+        },
+        {
+          "day": 23,
+          "title": "Breath Before Screen",
+          "content": "Take one slow breath before checking your phone each time you reach for it."
+        },
+        {
+          "day": 24,
+          "title": "Gratitude for Yourself",
+          "content": "Write one thing you appreciate about yourself today."
+        },
+        {
+          "day": 25,
+          "title": "Mini Digital Sunset",
+          "content": "Stop using screens at least 15 minutes before sleep."
+        },
+        {
+          "day": 26,
+          "title": "Notice Your Progress",
+          "content": "List three small ways you have changed since day 1."
+        },
+        {
+          "day": 27,
+          "title": "Soft Boundaries",
+          "content": "Say a gentle 'no' or set a limit somewhere today, in a respectful way."
+        },
+        {
+          "day": 28,
+          "title": "Future You",
+          "content": "Write a short note to your future self, thanking them for continuing this journey."
+        },
+        {
+          "day": 29,
+          "title": "Light and Shadow",
+          "content": "Acknowledge one thing that still feels hard, and one thing that now feels lighter."
+        },
+        {
+          "day": 30,
+          "title": "Integration",
+          "content": "Write which 2–3 practices from these 30 days you want to keep in your life after the challenge."
+        }
+      ]
+    },
+    "fr": {
+      "title": "30 Jours avec Noor Halo",
+      "description": "Un voyage doux de 30 jours pour tisser du calme, de la lumière et de la compassion envers toi-même dans ton quotidien.",
+      "days": [
+        {
+          "day": 1,
+          "title": "Commencer",
+          "content": "Pose une intention douce pour ces 30 jours : comment aimerais-tu te sentir plus souvent ?"
+        },
+        {
+          "day": 2,
+          "title": "Trois Respirations",
+          "content": "Pratique le Reset en Trois Respirations au moins une fois aujourd'hui."
+        },
+        {
+          "day": 3,
+          "title": "Note de Gratitude",
+          "content": "Écris une chose pour laquelle tu es reconnaissant(e) aujourd'hui."
+        },
+        {
+          "day": 4,
+          "title": "Conscience du Corps",
+          "content": "Consacre 3 minutes à observer les sensations dans ton corps sans les juger."
+        },
+        {
+          "day": 5,
+          "title": "Pause Digitale",
+          "content": "Prends une pause de 15 minutes sans aucun écran aujourd'hui."
+        },
+        {
+          "day": 6,
+          "title": "Lumière Intérieure",
+          "content": "Fais une courte Visualisation de la Lumière Intérieure avant de dormir."
+        },
+        {
+          "day": 7,
+          "title": "Bilan Semaine 1",
+          "content": "Écris quelques lignes sur ce qui a changé (même un peu) durant cette première semaine."
+        },
+        {
+          "day": 8,
+          "title": "Respiration du Matin",
+          "content": "Prends 3 respirations conscientes dès ton réveil."
+        },
+        {
+          "day": 9,
+          "title": "Mouvement Doux",
+          "content": "Fais 5 minutes d'étirements ou de marche en pleine présence."
+        },
+        {
+          "day": 10,
+          "title": "Parole Bienveillante",
+          "content": "Écris une phrase bienveillante pour toi-même et lis-la à voix haute."
+        },
+        {
+          "day": 11,
+          "title": "Un Moment de Silence",
+          "content": "Prends 5 minutes de pause aujourd'hui juste pour t'asseoir en silence."
+        },
+        {
+          "day": 12,
+          "title": "Rituel d'Eau",
+          "content": "Bois un verre d'eau lentement en le considérant comme un petit rituel de soin."
+        },
+        {
+          "day": 13,
+          "title": "Nommer l'Émotion",
+          "content": "Lorsqu'une émotion forte apparaît, fais une pause et nomme-la doucement au lieu de la fuir."
+        },
+        {
+          "day": 14,
+          "title": "Deux Gratitudes",
+          "content": "Écris deux choses pour lesquelles tu es reconnaissant(e) avant de dormir."
+        },
+        {
+          "day": 15,
+          "title": "Point Milieu",
+          "content": "Note comment tu te sens à mi-parcours de ce voyage. Qu'est-ce qui est plus facile ? Qu'est-ce qui reste difficile ?"
+        },
+        {
+          "day": 16,
+          "title": "Moins de Bruit",
+          "content": "Réduis ou coupe aujourd'hui une source de bruit (app, TV, discussion inutile)."
+        },
+        {
+          "day": 17,
+          "title": "Marche Lente",
+          "content": "Fais une petite marche en bougeant plus lentement que d'habitude, en observant les détails autour de toi."
+        },
+        {
+          "day": 18,
+          "title": "Murmure de Compassion",
+          "content": "Pratique le Murmure de Compassion pour Soi une fois aujourd'hui."
+        },
+        {
+          "day": 19,
+          "title": "Écouter la Lumière",
+          "content": "Écoute un audio calme en ne faisant rien d'autre en même temps."
+        },
+        {
+          "day": 20,
+          "title": "Écouter tes Besoins",
+          "content": "Demande-toi : « De quoi ai-je vraiment besoin aujourd'hui ? » et honore-le d'une petite façon."
+        },
+        {
+          "day": 21,
+          "title": "Bilan Semaine 3",
+          "content": "Écris une courte note sur tout changement que tu remarques dans ton calme ou ton état d'esprit."
+        },
+        {
+          "day": 22,
+          "title": "Décompression du Soir",
+          "content": "Fais le Rituel de Décompression du Soir avant de dormir aujourd'hui."
+        },
+        {
+          "day": 23,
+          "title": "Souffle Avant l'Écran",
+          "content": "Prends une respiration lente avant de vérifier ton téléphone chaque fois que tu le prends."
+        },
+        {
+          "day": 24,
+          "title": "Gratitude pour Toi-même",
+          "content": "Écris une chose que tu apprécies chez toi aujourd'hui."
+        },
+        {
+          "day": 25,
+          "title": "Mini Coucher Digital",
+          "content": "Arrête les écrans au moins 15 minutes avant de dormir."
+        },
+        {
+          "day": 26,
+          "title": "Voir les Progrès",
+          "content": "Liste trois petites choses qui ont changé chez toi depuis le jour 1."
+        },
+        {
+          "day": 27,
+          "title": "Frontières Douces",
+          "content": "Dis un « non » doux ou pose une limite quelque part aujourd'hui, avec respect."
+        },
+        {
+          "day": 28,
+          "title": "Toi du Futur",
+          "content": "Écris une courte note à ton toi futur en le remerciant de continuer ce chemin."
+        },
+        {
+          "day": 29,
+          "title": "Lumière et Ombre",
+          "content": "Reconnais une chose qui reste difficile et une chose qui est devenue plus légère."
+        },
+        {
+          "day": 30,
+          "title": "Intégration",
+          "content": "Écris quelles 2–3 pratiques de ces 30 jours tu veux garder dans ta vie après le challenge."
+        }
+      ]
+    },
+    "ar": {
+      "title": "30 يوماً مع Noor Halo",
+      "description": "رحلة لطيفة لمدة 30 يوماً لنسج الهدوء والنور والتعاطف مع الذات في حياتك اليومية.",
+      "days": [
+        {
+          "day": 1,
+          "title": "البداية",
+          "content": "ضع نية لطيفة لهذه الثلاثين يوماً: كيف تود أن تشعر في حياتك أكثر؟"
+        },
+        {
+          "day": 2,
+          "title": "ثلاث أنفاس",
+          "content": "قم بتمرين ثلاث أنفاس مرة واحدة على الأقل اليوم."
+        },
+        {
+          "day": 3,
+          "title": "ملاحظة امتنان",
+          "content": "اكتب شيئاً واحداً تشعر بالامتنان له اليوم."
+        },
+        {
+          "day": 4,
+          "title": "الإحساس بالجسد",
+          "content": "اقضِ ثلاث دقائق في ملاحظة الإحساس في جسدك دون حُكم."
+        },
+        {
+          "day": 5,
+          "title": "استراحة رقمية",
+          "content": "خذ استراحة 15 دقيقة بلا أي شاشة."
+        },
+        {
+          "day": 6,
+          "title": "نور داخلي",
+          "content": "قم بتخيّل نور داخلي في صدرك قبل النوم."
+        },
+        {
+          "day": 7,
+          "title": "تأمل الأسبوع الأول",
+          "content": "اكتب بضعة أسطر عن أي تغيير لاحظته هذا الأسبوع."
+        },
+        {
+          "day": 8,
+          "title": "تنفس الصباح",
+          "content": "خذ ثلاث أنفاس واعية عند الاستيقاظ."
+        },
+        {
+          "day": 9,
+          "title": "حركة لطيفة",
+          "content": "قم بالمشي أو التمدد لخمس دقائق بحضور كامل."
+        },
+        {
+          "day": 10,
+          "title": "كلمات طيبة",
+          "content": "اكتب جملة لطيفة لنفسك واقرأها بصوت مسموع."
+        },
+        {
+          "day": 11,
+          "title": "لحظة صمت",
+          "content": "خذ خمس دقائق من الصمت التام اليوم."
+        },
+        {
+          "day": 12,
+          "title": "طقس الماء",
+          "content": "اشرب كوب ماء ببطء وكأنه طقس صغير للعناية."
+        },
+        {
+          "day": 13,
+          "title": "تسمية الشعور",
+          "content": "عندما تشعر بعاطفة قوية، توقف لحظة وسمّها بلطف."
+        },
+        {
+          "day": 14,
+          "title": "امتنان مزدوج",
+          "content": "اكتب شيئين تشعر بالامتنان لهما قبل النوم."
+        },
+        {
+          "day": 15,
+          "title": "منتصف الرحلة",
+          "content": "اكتب ما تشعر به في منتصف هذه الرحلة: ما الأسهل؟ ما الأصعب؟"
+        },
+        {
+          "day": 16,
+          "title": "ضوضاء أقل",
+          "content": "قلّل مصدر ضجيج واحد اليوم (تطبيق، تلفاز، نقاش زائد)."
+        },
+        {
+          "day": 17,
+          "title": "مشية بطيئة",
+          "content": "قم بمشي قصير بسرعة أبطأ من المعتاد ولاحظ التفاصيل حولك."
+        },
+        {
+          "day": 18,
+          "title": "همسة تعاطف",
+          "content": "قم بطقس همسة التعاطف مع الذات مرة اليوم."
+        },
+        {
+          "day": 19,
+          "title": "صوت هادئ",
+          "content": "استمع إلى مقطع هادئ دون فعل أي شيء آخر."
+        },
+        {
+          "day": 20,
+          "title": "ما الذي أحتاجه حقاً؟",
+          "content": "اسأل نفسك: «ما الذي أحتاجه حقاً اليوم؟» ولبّه بشكل بسيط."
+        },
+        {
+          "day": 21,
+          "title": "تأمل الأسبوع الثالث",
+          "content": "اكتب ملاحظة قصيرة عن أي تغيّر في هدوئك أو نظرتك."
+        },
+        {
+          "day": 22,
+          "title": "تهدئة المساء",
+          "content": "طبّق طقس تهدئة المساء قبل النوم اليوم."
+        },
+        {
+          "day": 23,
+          "title": "نَفَس قبل الشاشة",
+          "content": "خذ نفساً بطيئاً قبل أن تنظر لهاتفك في كل مرة."
+        },
+        {
+          "day": 24,
+          "title": "امتنان لذاتك",
+          "content": "اكتب شيئاً واحداً تقدّره في نفسك اليوم."
+        },
+        {
+          "day": 25,
+          "title": "غروب صغير بلا شاشة",
+          "content": "أوقف استخدام الشاشات قبل النوم بـ15 دقيقة على الأقل."
+        },
+        {
+          "day": 26,
+          "title": "رؤية التقدم",
+          "content": "دوّن ثلاث طرق صغيرة تغيّرت فيك منذ اليوم الأول."
+        },
+        {
+          "day": 27,
+          "title": "حدود لطيفة",
+          "content": "ضع حداً بسيطاً أو قل «لا» بلطف في موقف واحد اليوم."
+        },
+        {
+          "day": 28,
+          "title": "أنت في المستقبل",
+          "content": "اكتب رسالة قصيرة لنفسك المستقبلية تشكر فيها استمرارك في هذا المسار."
+        },
+        {
+          "day": 29,
+          "title": "نور وظل",
+          "content": "اعترف بأمر واحد ما زال صعباً وآخر أصبح أخفّ."
+        },
+        {
+          "day": 30,
+          "title": "الدمج",
+          "content": "اكتب أي الممارسات من هذه الثلاثين يوماً تريد الاحتفاظ بها بعد انتهاء التحدي."
+        }
+      ]
+    },
+    "isPremium": true
+  }
+]

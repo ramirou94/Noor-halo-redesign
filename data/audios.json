@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "key": "three_breaths_reset",
+    "isPremium": false,
+    "durationSeconds": 120,
+    "en": {
+      "title": "Three Breaths Reset",
+      "description": "A quick 2-minute breathing exercise to reset your nervous system.",
+      "file": null
+    },
+    "fr": {
+      "title": "Reset en Trois Respirations",
+      "description": "Un exercice rapide de 2 minutes pour réinitialiser ton système nerveux.",
+      "file": null
+    },
+    "ar": {
+      "title": "إعادة ضبط بثلاث أنفاس",
+      "description": "تمرين تنفس سريع لمدة دقيقتين لإعادة ضبط جهازك العصبي.",
+      "file": null
+    }
+  },
+  {
+    "id": 2,
+    "key": "soft_evening_release",
+    "isPremium": false,
+    "durationSeconds": 180,
+    "en": {
+      "title": "Soft Evening Release",
+      "description": "A gentle 3-minute practice to release the day's tension.",
+      "file": null
+    },
+    "fr": {
+      "title": "Relâchement Doux du Soir",
+      "description": "Une pratique douce de 3 minutes pour relâcher les tensions du jour.",
+      "file": null
+    },
+    "ar": {
+      "title": "إطلاق لطيف للمساء",
+      "description": "ممارسة لطيفة لمدة 3 دقائق لإطلاق توتر اليوم.",
+      "file": null
+    }
+  },
+  {
+    "id": 3,
+    "key": "inner_light",
+    "isPremium": true,
+    "durationSeconds": 480,
+    "en": {
+      "title": "Inner Light Meditation",
+      "description": "An 8-minute guided visualization to connect with your inner radiance.",
+      "file": null
+    },
+    "fr": {
+      "title": "Méditation de la Lumière Intérieure",
+      "description": "Une visualisation guidée de 8 minutes pour te connecter à ton rayonnement intérieur.",
+      "file": null
+    },
+    "ar": {
+      "title": "تأمل النور الداخلي",
+      "description": "تصور موجّه لمدة 8 دقائق للاتصال بنورك الداخلي.",
+      "file": null
+    }
+  },
+  {
+    "id": 4,
+    "key": "calm_in_the_storm",
+    "isPremium": true,
+    "durationSeconds": 360,
+    "en": {
+      "title": "Calm in the Storm",
+      "description": "A 6-minute practice to find peace even in difficult moments.",
+      "file": null
+    },
+    "fr": {
+      "title": "Calme dans la Tempête",
+      "description": "Une pratique de 6 minutes pour trouver la paix même dans les moments difficiles.",
+      "file": null
+    },
+    "ar": {
+      "title": "هدوء في العاصفة",
+      "description": "ممارسة لمدة 6 دقائق لإيجاد السلام حتى في اللحظات الصعبة.",
+      "file": null
+    }
+  },
+  {
+    "id": 5,
+    "key": "evening_unwind_ritual",
+    "isPremium": true,
+    "durationSeconds": 600,
+    "en": {
+      "title": "Evening Unwind Ritual",
+      "description": "A complete 10-minute evening ritual to release the day and prepare for rest.",
+      "file": null
+    },
+    "fr": {
+      "title": "Rituel de Décompression du Soir",
+      "description": "Un rituel complet de 10 minutes pour relâcher la journée et préparer le repos.",
+      "file": null
+    },
+    "ar": {
+      "title": "طقس تهدئة المساء",
+      "description": "طقس كامل لمدة 10 دقائق لإطلاق اليوم والاستعداد للراحة.",
+      "file": null
+    }
+  },
+  {
+    "id": 6,
+    "key": "self_compassion_whisper",
+    "isPremium": true,
+    "durationSeconds": 240,
+    "en": {
+      "title": "Self-Compassion Whisper",
+      "description": "A 4-minute practice to speak to yourself with gentleness and care.",
+      "file": null
+    },
+    "fr": {
+      "title": "Murmure de Compassion pour Soi",
+      "description": "Une pratique de 4 minutes pour te parler avec douceur et bienveillance.",
+      "file": null
+    },
+    "ar": {
+      "title": "همسة التعاطف مع الذات",
+      "description": "ممارسة لمدة 4 دقائق للتحدث مع نفسك بلطف وعناية.",
+      "file": null
+    }
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "key": "lumiere_matin",
+    "en": {
+      "title": "Morning light",
+      "intention": "Start the day by setting a sincere intention and reconnecting your heart to something deeper.",
+      "description": "A short morning ritual to reconnect with your inner light before the day begins.",
+      "durationMinutes": 5,
+      "steps": [
+        "Sit comfortably, away from your phone.",
+        "Close your eyes and take 5 slow, deep breaths.",
+        "Place your hand on your heart and notice how it feels today.",
+        "Set a simple intention for the day: one word or one sentence.",
+        "Open your eyes gently and begin your day."
+      ]
+    },
+    "fr": {
+      "title": "Lumière du matin",
+      "intention": "Démarrer la journée en posant une intention sincère et en reconnectant ton cœur à quelque chose de plus profond.",
+      "description": "Un court rituel matinal pour te reconnecter à ta lumière intérieure avant que la journée ne démarre.",
+      "durationMinutes": 5,
+      "steps": [
+        "Assieds-toi confortablement, loin de ton téléphone.",
+        "Ferme les yeux et prends 5 respirations lentes et profondes.",
+        "Pose ta main sur ton cœur et observe comment il se sent aujourd'hui.",
+        "Pose une intention simple pour la journée : un mot ou une phrase.",
+        "Ouvre les yeux doucement et commence ta journée."
+      ]
+    },
+    "ar": {
+      "title": "نور الصباح",
+      "intention": "بدء اليوم بوضع نية صادقة وبإعادة ربط قلبك بشيء أعمق.",
+      "description": "طقس صباحي قصير للاتصال من جديد بنورك الداخلي قبل بداية اليوم.",
+      "durationMinutes": 5,
+      "steps": [
+        "اجلس براحة، بعيداً عن هاتفك.",
+        "أغمض عينيك وخذ ٥ أنفاس بطيئة وعميقة.",
+        "ضع يدك على قلبك ولاحظ كيف يشعر اليوم.",
+        "ضع نية بسيطة لليوم: كلمة واحدة أو جملة.",
+        "افتح عينيك بلطف وابدأ يومك."
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "key": "pause_coeur_chaos",
+    "en": {
+      "title": "Heart pause amid chaos",
+      "intention": "Create a bubble of calm amid the noise to listen to your heart without judgment.",
+      "description": "A micro-ritual you can do anywhere when you feel the noise overwhelming you.",
+      "durationMinutes": 3,
+      "steps": [
+        "Wherever you are, pause for a moment.",
+        "Take 3 slow, deep breaths.",
+        "Ask yourself: How is my heart right now?",
+        "Listen without judging the answer.",
+        "Return to what you were doing with a bit more calm."
+      ]
+    },
+    "fr": {
+      "title": "Pause du cœur au milieu du chaos",
+      "intention": "Créer une bulle de calme au milieu du bruit pour écouter ton cœur sans jugement.",
+      "description": "Un micro-rituel que tu peux faire n'importe où lorsque tu sens le bruit te submerger.",
+      "durationMinutes": 3,
+      "steps": [
+        "Où que tu sois, marque une pause.",
+        "Prends 3 respirations lentes et profondes.",
+        "Demande-toi : Comment va mon cœur là, maintenant ?",
+        "Écoute sans juger la réponse.",
+        "Reprends ce que tu faisais avec un peu plus de calme."
+      ]
+    },
+    "ar": {
+      "title": "وقفة القلب وسط الفوضى",
+      "intention": "اصنع فقاعة هدوء وسط الضجيج لتسمع قلبك دون حكم.",
+      "description": "طقس صغير يمكنك القيام به في أي مكان عندما تشعر بأن الضجيج يغمرك.",
+      "durationMinutes": 3,
+      "steps": [
+        "أينما كنت، توقف للحظة.",
+        "خذ ٣ أنفاس بطيئة وعميقة.",
+        "اسأل نفسك: كيف حال قلبي الآن؟",
+        "استمع دون أن تحكم على الجواب.",
+        "عد لما كنت تفعله مع المزيد من الهدوء."
+      ]
+    }
+  }
+]
